@@ -7,7 +7,6 @@ public class HelloWorld
       double rounded = number - leftover;
       
       System.out.println(rounded);
-      System.out.println("Program modified, but able to revert to original version using GitHub Desktop");
       }
 }
       
